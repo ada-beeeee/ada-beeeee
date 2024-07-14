@@ -1,10 +1,8 @@
-## Hi there 👋
-
-<!--
-**ada-beeeee/ada-beeeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+Hi! My name is Ada. I'm a QA automation engineer with an interest in digital accessibility.
+- 😄 Pronouns: they/them or zie/hir
+- 📫 How to reach me: Leave a comment here with your contact info, or connect with me on LinkedIn.
+  
+<!---
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,4 +11,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+---!>
